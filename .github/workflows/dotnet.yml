@@ -14,7 +14,7 @@ on:
           type: string
 
 env:
-  prj_name: itvdn-demo
+  prj_name: itvdn-demo-eu
 
 jobs:
     build:
